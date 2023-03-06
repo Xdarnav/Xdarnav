@@ -1,14 +1,13 @@
 ### Hi there 👋
 
 
-
 <h1> <img src="https://github.com/Xdarnav/Xdarnav/blob/main/resources/codes.webp" width="70px"> Hey there, ᴀʀɴᴀᴠ sɪɴɢʜ this side! </h1>
 <p align="center">
     <b>Visitors Count</b><br>
     <img align="middle" src="https://profile-counter.glitch.me/Xdarnav/count.svg" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231AF73D&size=27&width=500&lines=Hey!+It's+ᴀʀɴᴀᴠ+sɪɴɢʜ 😎!;I'm+a+learning+developer...;I+love+to+code%2C+work+on+cool+projects;and+take+on+challenges...;Thanks+for+visiting+%E2%9D%A4%EF%B8%8F)](https://github.com/Xdarnav)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231AF73D&size=27&width=500&lines=Hey!+It's+Arnav+Singh!;I'm+a+learning+developer...;I+love+to+code%2C+work+on+cool+projects;and+take+on+challenges...;Thanks+for+visiting+%E2%9D%A4%EF%B8%8F)](https://github.com/Xdarnav)
 
 <!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ArnavSingh)
  -->
